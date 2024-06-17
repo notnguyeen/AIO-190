@@ -15,3 +15,5 @@ for element in num_list: #duyệt theo giá trị
         maxNumber = max(sub_list)
         print(f"{sub_list} have max is {maxNumber}")
         
+        
+
